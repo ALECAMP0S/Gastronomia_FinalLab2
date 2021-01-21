@@ -1,0 +1,150 @@
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.csprojResolveAssemblyReference.cache
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.Cadeteria.Cadete_LookUp.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.Cadeteria._100001_Cadeteria.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.Cadeteria._100002_FormaDePago.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.Cliente._30001_ConsultaCliente.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.Cliente._30002_ABM_Cliente.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.CuentaCorriente._30003_CtaCte_Cliente.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.Cliente.Cliente_LookUp.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.ControlesUsuarios.CambiarMesa.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.ControlesUsuarios.CombinarMesas.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.ControlesUsuarios.UserControlMesa.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.Empleado._20002_ABM_Empleado.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.Facturacion.ComprobanteDeliveryLookUp.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.Facturacion.Comprobante_LookUp.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.ListaPrecioProducto.ABM_ListaPrecioProducto.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.ListaPrecio._90002_ABM_ListaPrecio.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.Marca._50002_ABM_Marca.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.Mesa._00001_ConsultaMesas.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.Mesa._00002_ABM_Mesa.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.Mozo.Mozo_LookUp.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.Producto._80002_ABM_Producto.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.Producto.Producto_LookUp.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.Properties.Resources.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.Proveedor._40002_ABM_Proveedor.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.Reservacion.ABM_Reservacion.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.Rubro._60002_ABM_Rubro.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.SubRubro._70002_ABM_SubRubro.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.Venta_en_Salon._10001_VentaSalon.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.Venta_en_Salon._10002_Venta.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.Venta_en_Salon._10003_FormaDePago.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.csproj.GenerateResource.Cache
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.csproj.CoreCompileInputs.cache
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\bin\Release\Presentacion.Core.dll.config
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\bin\Release\Presentacion.Core.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\bin\Release\Presentacion.Core.pdb
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\bin\Release\DAL.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\bin\Release\EntityFramework.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\bin\Release\EntityFramework.SqlServer.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\bin\Release\Presentacion.Base.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\bin\Release\Servicio.Core.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\bin\Release\DAL.pdb
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\bin\Release\DAL.dll.config
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\bin\Release\Presentacion.Base.pdb
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\bin\Release\Presentacion.Base.dll.config
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\bin\Release\Servicio.Core.pdb
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\bin\Release\Servicio.Core.dll.config
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\bin\Release\EntityFramework.xml
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\bin\Release\EntityFramework.SqlServer.xml
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Core\obj\Release\Presentacion.Core.pdb
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\bin\Release\Presentacion.Core.dll.config
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\bin\Release\Presentacion.Core.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\bin\Release\Presentacion.Core.pdb
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\bin\Release\DAL.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\bin\Release\EntityFramework.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\bin\Release\Presentacion.Base.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\bin\Release\Servicio.Core.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\bin\Release\DAL.pdb
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\bin\Release\DAL.dll.config
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\bin\Release\Presentacion.Base.pdb
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\bin\Release\Presentacion.Base.dll.config
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\bin\Release\Servicio.Core.pdb
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\bin\Release\Servicio.Core.dll.config
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\bin\Release\EntityFramework.xml
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Cadeteria.Cadete_LookUp.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Cadeteria._100001_Cadeteria.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Cadeteria._100002_FormaDePago.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Cliente._30001_ConsultaCliente.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Cliente._30002_ABM_Cliente.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.CuentaCorriente._30003_CtaCte_Cliente.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Cliente.Cliente_LookUp.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.ControlesUsuarios.CambiarMesa.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.ControlesUsuarios.CombinarMesas.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.ControlesUsuarios.UserControlMesa.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Empleado._20002_ABM_Empleado.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Facturacion.ComprobanteDeliveryLookUp.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Facturacion.Comprobante_LookUp.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.ListaPrecioProducto.ABM_ListaPrecioProducto.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.ListaPrecio._90002_ABM_ListaPrecio.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Marca._50002_ABM_Marca.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Mesa._00001_ConsultaMesas.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Mesa._00002_ABM_Mesa.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Mozo.Mozo_LookUp.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Producto._80002_ABM_Producto.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Producto.Producto_LookUp.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Properties.Resources.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Proveedor._40002_ABM_Proveedor.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Reservacion.ABM_Reservacion.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Rubro._60002_ABM_Rubro.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.SubRubro._70002_ABM_SubRubro.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Venta_en_Salon._10001_VentaSalon.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Venta_en_Salon._10002_Venta.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Venta_en_Salon._10003_FormaDePago.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.csproj.GenerateResource.Cache
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.pdb
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\bin\Release\Presentacion.Core.dll.config
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\bin\Release\Presentacion.Core.dll
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\bin\Release\Presentacion.Core.pdb
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\bin\Release\DAL.dll
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\bin\Release\EntityFramework.dll
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\bin\Release\Presentacion.Base.dll
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\bin\Release\Servicio.Core.dll
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\bin\Release\DAL.pdb
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\bin\Release\DAL.dll.config
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\bin\Release\Presentacion.Base.pdb
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\bin\Release\Presentacion.Base.dll.config
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\bin\Release\Servicio.Core.pdb
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\bin\Release\Servicio.Core.dll.config
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\bin\Release\EntityFramework.xml
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Cadeteria.Cadete_LookUp.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Cadeteria._100001_Cadeteria.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Cadeteria._100002_FormaDePago.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Cliente._30001_ConsultaCliente.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Cliente._30002_ABM_Cliente.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.CuentaCorriente._30003_CtaCte_Cliente.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Cliente.Cliente_LookUp.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.ControlesUsuarios.CambiarMesa.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.ControlesUsuarios.CombinarMesas.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.ControlesUsuarios.UserControlMesa.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Empleado._20002_ABM_Empleado.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Facturacion.ComprobanteDeliveryLookUp.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Facturacion.Comprobante_LookUp.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.ListaPrecioProducto.ABM_ListaPrecioProducto.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.ListaPrecio._90002_ABM_ListaPrecio.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Marca._50002_ABM_Marca.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Mesa._00001_ConsultaMesas.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Mesa._00002_ABM_Mesa.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Mozo.Mozo_LookUp.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Producto._80002_ABM_Producto.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Producto.Producto_LookUp.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Properties.Resources.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Proveedor._40002_ABM_Proveedor.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Reservacion.ABM_Reservacion.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Rubro._60002_ABM_Rubro.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.SubRubro._70002_ABM_SubRubro.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Venta_en_Salon._10001_VentaSalon.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Venta_en_Salon._10002_Venta.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.Venta_en_Salon._10003_FormaDePago.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.csproj.GenerateResource.Cache
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.dll
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Core\obj\Release\Presentacion.Core.pdb

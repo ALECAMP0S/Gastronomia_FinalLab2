@@ -1,0 +1,51 @@
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Servicio.Core\obj\Release\Servicio.Core.csprojResolveAssemblyReference.cache
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Servicio.Core\obj\Release\Servicio.Core.csproj.CoreCompileInputs.cache
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Servicio.Core\bin\Release\Servicio.Core.dll.config
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Servicio.Core\bin\Release\Servicio.Core.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Servicio.Core\bin\Release\Servicio.Core.pdb
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Servicio.Core\bin\Release\DAL.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Servicio.Core\bin\Release\EntityFramework.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Servicio.Core\bin\Release\EntityFramework.SqlServer.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Servicio.Core\bin\Release\Presentacion.Base.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Servicio.Core\bin\Release\DAL.pdb
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Servicio.Core\bin\Release\DAL.dll.config
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Servicio.Core\bin\Release\Presentacion.Base.pdb
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Servicio.Core\bin\Release\Presentacion.Base.dll.config
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Servicio.Core\bin\Release\EntityFramework.xml
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Servicio.Core\bin\Release\EntityFramework.SqlServer.xml
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Servicio.Core\obj\Release\Servicio.Core.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Servicio.Core\obj\Release\Servicio.Core.pdb
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Servicio.Core\bin\Release\Servicio.Core.dll.config
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Servicio.Core\bin\Release\Servicio.Core.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Servicio.Core\bin\Release\Servicio.Core.pdb
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Servicio.Core\bin\Release\DAL.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Servicio.Core\bin\Release\EntityFramework.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Servicio.Core\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Servicio.Core\bin\Release\Presentacion.Base.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Servicio.Core\bin\Release\DAL.pdb
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Servicio.Core\bin\Release\DAL.dll.config
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Servicio.Core\bin\Release\Presentacion.Base.pdb
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Servicio.Core\bin\Release\Presentacion.Base.dll.config
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Servicio.Core\bin\Release\EntityFramework.xml
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Servicio.Core\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Servicio.Core\obj\Release\Servicio.Core.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Servicio.Core\obj\Release\Servicio.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Servicio.Core\obj\Release\Servicio.Core.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Servicio.Core\obj\Release\Servicio.Core.pdb
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Servicio.Core\bin\Release\Servicio.Core.dll.config
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Servicio.Core\bin\Release\Servicio.Core.dll
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Servicio.Core\bin\Release\Servicio.Core.pdb
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Servicio.Core\bin\Release\DAL.dll
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Servicio.Core\bin\Release\EntityFramework.dll
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Servicio.Core\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Servicio.Core\bin\Release\Presentacion.Base.dll
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Servicio.Core\bin\Release\DAL.pdb
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Servicio.Core\bin\Release\DAL.dll.config
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Servicio.Core\bin\Release\Presentacion.Base.pdb
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Servicio.Core\bin\Release\Presentacion.Base.dll.config
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Servicio.Core\bin\Release\EntityFramework.xml
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Servicio.Core\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Servicio.Core\obj\Release\Servicio.Core.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Servicio.Core\obj\Release\Servicio.Core.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Servicio.Core\obj\Release\Servicio.Core.dll
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Servicio.Core\obj\Release\Servicio.Core.pdb

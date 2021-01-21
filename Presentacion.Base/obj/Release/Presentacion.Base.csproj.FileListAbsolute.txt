@@ -1,0 +1,66 @@
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Base\bin\Release\Presentacion.Base.dll.config
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Base\bin\Release\Presentacion.Base.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Base\bin\Release\Presentacion.Base.pdb
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Base\bin\Release\EntityFramework.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Base\bin\Release\EntityFramework.SqlServer.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Base\bin\Release\EntityFramework.xml
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Base\bin\Release\EntityFramework.SqlServer.xml
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Base\obj\Release\Presentacion.Base.FormularioABM.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Base\obj\Release\Presentacion.Base.FormularioConsulta.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Base\obj\Release\Presentacion.Base.FormularioConsultaConDetalle.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Base\obj\Release\Presentacion.Base.FormularioConsultaGrande.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Base\obj\Release\Presentacion.Base.FormularioConsultaSoloLectura.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Base\obj\Release\Presentacion.Base.FormularioLookUpConDobleDetalle.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Base\obj\Release\Presentacion.Base.FormularioLookUp.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Base\obj\Release\Presentacion.Base.FormularioLookUpGrande.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Base\obj\Release\Presentacion.Base.FormularioBase.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Base\obj\Release\Presentacion.Base.Recursos.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Base\obj\Release\Presentacion.Base.csproj.GenerateResource.Cache
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Base\obj\Release\Presentacion.Base.csproj.CoreCompileInputs.cache
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Base\obj\Release\Presentacion.Base.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Base\obj\Release\Presentacion.Base.pdb
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Presentacion.Base\obj\Release\Presentacion.Base.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Base\bin\Release\Presentacion.Base.dll.config
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Base\bin\Release\Presentacion.Base.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Base\bin\Release\Presentacion.Base.pdb
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Base\bin\Release\EntityFramework.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Base\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Base\bin\Release\EntityFramework.xml
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Base\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.FormularioABM.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.FormularioConsulta.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.FormularioConsultaConDetalle.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.FormularioConsultaGrande.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.FormularioConsultaSoloLectura.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.FormularioLookUpConDobleDetalle.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.FormularioLookUp.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.FormularioLookUpGrande.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.FormularioBase.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.Recursos.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.csproj.GenerateResource.Cache
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.pdb
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Base\bin\Release\Presentacion.Base.dll.config
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Base\bin\Release\Presentacion.Base.dll
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Base\bin\Release\Presentacion.Base.pdb
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Base\bin\Release\EntityFramework.dll
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Base\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Base\bin\Release\EntityFramework.xml
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Base\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.FormularioABM.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.FormularioConsulta.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.FormularioConsultaConDetalle.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.FormularioConsultaGrande.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.FormularioConsultaSoloLectura.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.FormularioLookUpConDobleDetalle.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.FormularioLookUp.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.FormularioLookUpGrande.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.FormularioBase.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.Recursos.resources
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.csproj.GenerateResource.Cache
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.dll
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\Presentacion.Base\obj\Release\Presentacion.Base.pdb

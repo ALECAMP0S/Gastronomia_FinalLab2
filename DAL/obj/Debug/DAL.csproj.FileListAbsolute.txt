@@ -1,0 +1,72 @@
+D:\Tecnicatura\Gastronomia\DAL\bin\Debug\DAL.dll.config
+D:\Tecnicatura\Gastronomia\DAL\bin\Debug\DAL.dll
+D:\Tecnicatura\Gastronomia\DAL\bin\Debug\DAL.pdb
+D:\Tecnicatura\Gastronomia\DAL\bin\Debug\EntityFramework.dll
+D:\Tecnicatura\Gastronomia\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tecnicatura\Gastronomia\DAL\bin\Debug\EntityFramework.xml
+D:\Tecnicatura\Gastronomia\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tecnicatura\Gastronomia\DAL\obj\Debug\DAL.dll
+D:\Tecnicatura\Gastronomia\DAL\obj\Debug\DAL.pdb
+D:\Tecnicatura\Gastronomia\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Tecnicatura\Gastronomia\Gastronomia\DAL\bin\Debug\DAL.dll.config
+D:\Tecnicatura\Gastronomia\Gastronomia\DAL\bin\Debug\DAL.dll
+D:\Tecnicatura\Gastronomia\Gastronomia\DAL\bin\Debug\DAL.pdb
+D:\Tecnicatura\Gastronomia\Gastronomia\DAL\bin\Debug\EntityFramework.dll
+D:\Tecnicatura\Gastronomia\Gastronomia\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tecnicatura\Gastronomia\Gastronomia\DAL\bin\Debug\EntityFramework.xml
+D:\Tecnicatura\Gastronomia\Gastronomia\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tecnicatura\Gastronomia\Gastronomia\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Tecnicatura\Gastronomia\Gastronomia\DAL\obj\Debug\DAL.dll
+D:\Tecnicatura\Gastronomia\Gastronomia\DAL\obj\Debug\DAL.pdb
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\DAL\bin\Debug\DAL.dll.config
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\DAL\bin\Debug\DAL.dll
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\DAL\bin\Debug\DAL.pdb
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\DAL\obj\Debug\DAL.dll
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\DAL\obj\Debug\DAL.pdb
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\DAL\obj\Debug\DAL.dll
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\DAL\bin\Debug\DAL.dll.config
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\DAL\bin\Debug\DAL.dll
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\DAL\bin\Debug\DAL.pdb
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\DAL\obj\Debug\DAL.pdb
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\DAL\bin\Debug\DAL.dll.config
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\DAL\bin\Debug\DAL.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\DAL\bin\Debug\DAL.pdb
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\DAL\bin\Debug\EntityFramework.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\DAL\bin\Debug\EntityFramework.xml
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\DAL\obj\Debug\DAL.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\DAL\obj\Debug\DAL.pdb
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\DAL\bin\Debug\DAL.dll.config
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\DAL\bin\Debug\DAL.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\DAL\bin\Debug\DAL.pdb
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\DAL\bin\Debug\EntityFramework.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\DAL\bin\Debug\EntityFramework.xml
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\DAL\obj\Debug\DAL.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\DAL\obj\Debug\DAL.pdb
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\DAL\bin\Debug\DAL.dll.config
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\DAL\bin\Debug\DAL.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\DAL\obj\Debug\DAL.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

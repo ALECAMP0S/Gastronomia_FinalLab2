@@ -1,0 +1,165 @@
+D:\Tecnicatura\Gastronomia\Gatronomia\bin\Debug\Gatronomia.exe.config
+D:\Tecnicatura\Gastronomia\Gatronomia\bin\Debug\Gatronomia.exe
+D:\Tecnicatura\Gastronomia\Gatronomia\bin\Debug\Gatronomia.pdb
+D:\Tecnicatura\Gastronomia\Gatronomia\bin\Debug\EntityFramework.dll
+D:\Tecnicatura\Gastronomia\Gatronomia\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tecnicatura\Gastronomia\Gatronomia\bin\Debug\Presentacion.Base.dll
+D:\Tecnicatura\Gastronomia\Gatronomia\bin\Debug\Presentacion.Core.dll
+D:\Tecnicatura\Gastronomia\Gatronomia\bin\Debug\Servicio.Core.dll
+D:\Tecnicatura\Gastronomia\Gatronomia\bin\Debug\DAL.dll
+D:\Tecnicatura\Gastronomia\Gatronomia\bin\Debug\Presentacion.Base.pdb
+D:\Tecnicatura\Gastronomia\Gatronomia\bin\Debug\Presentacion.Core.pdb
+D:\Tecnicatura\Gastronomia\Gatronomia\bin\Debug\Servicio.Core.pdb
+D:\Tecnicatura\Gastronomia\Gatronomia\bin\Debug\EntityFramework.xml
+D:\Tecnicatura\Gastronomia\Gatronomia\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tecnicatura\Gastronomia\Gatronomia\bin\Debug\DAL.pdb
+D:\Tecnicatura\Gastronomia\Gatronomia\obj\Debug\Gatronomia.csprojResolveAssemblyReference.cache
+D:\Tecnicatura\Gastronomia\Gatronomia\obj\Debug\Gatronomia.Principal.resources
+D:\Tecnicatura\Gastronomia\Gatronomia\obj\Debug\Gatronomia.Properties.Resources.resources
+D:\Tecnicatura\Gastronomia\Gatronomia\obj\Debug\Gatronomia.csproj.GenerateResource.Cache
+D:\Tecnicatura\Gastronomia\Gatronomia\obj\Debug\Gatronomia.exe
+D:\Tecnicatura\Gastronomia\Gatronomia\obj\Debug\Gatronomia.pdb
+D:\Tecnicatura\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Gatronomia.exe.config
+D:\Tecnicatura\Gastronomia\Gastronomia\Gatronomia\obj\Debug\Gatronomia.exe
+D:\Tecnicatura\Gastronomia\Gastronomia\Gatronomia\obj\Debug\Gatronomia.pdb
+D:\Tecnicatura\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Gatronomia.exe
+D:\Tecnicatura\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Gatronomia.pdb
+D:\Tecnicatura\Gastronomia\Gastronomia\Gatronomia\bin\Debug\EntityFramework.dll
+D:\Tecnicatura\Gastronomia\Gastronomia\Gatronomia\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tecnicatura\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Presentacion.Base.dll
+D:\Tecnicatura\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Presentacion.Core.dll
+D:\Tecnicatura\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Servicio.Core.dll
+D:\Tecnicatura\Gastronomia\Gastronomia\Gatronomia\bin\Debug\DAL.dll
+D:\Tecnicatura\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Presentacion.Base.pdb
+D:\Tecnicatura\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Presentacion.Core.pdb
+D:\Tecnicatura\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Servicio.Core.pdb
+D:\Tecnicatura\Gastronomia\Gastronomia\Gatronomia\bin\Debug\EntityFramework.xml
+D:\Tecnicatura\Gastronomia\Gastronomia\Gatronomia\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tecnicatura\Gastronomia\Gastronomia\Gatronomia\bin\Debug\DAL.pdb
+D:\Tecnicatura\Gastronomia\Gastronomia\Gatronomia\obj\Debug\Gatronomia.csprojResolveAssemblyReference.cache
+D:\Tecnicatura\Gastronomia\Gastronomia\Gatronomia\obj\Debug\Gatronomia.Principal.resources
+D:\Tecnicatura\Gastronomia\Gastronomia\Gatronomia\obj\Debug\Gatronomia.Properties.Resources.resources
+D:\Tecnicatura\Gastronomia\Gastronomia\Gatronomia\obj\Debug\Gatronomia.csproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\Gatronomia\obj\Debug\Gatronomia.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\Gatronomia\obj\Debug\Gatronomia.Principal.resources
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\Gatronomia\obj\Debug\Gatronomia.Properties.Resources.resources
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\Gatronomia\obj\Debug\Gatronomia.csproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Gatronomia.exe.config
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Gatronomia.exe
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Gatronomia.pdb
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\Gatronomia\bin\Debug\EntityFramework.dll
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\Gatronomia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Presentacion.Base.dll
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Presentacion.Core.dll
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Servicio.Core.dll
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\Gatronomia\bin\Debug\DAL.dll
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Presentacion.Base.pdb
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Presentacion.Core.pdb
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Servicio.Core.pdb
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\Gatronomia\bin\Debug\EntityFramework.xml
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\Gatronomia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\Gatronomia\bin\Debug\DAL.pdb
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\Gatronomia\obj\Debug\Gatronomia.exe
+C:\Users\Carlos\Desktop\gas\Gas7\Gastronomia\Gastronomia\Gatronomia\obj\Debug\Gatronomia.pdb
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Presentacion.Base.dll
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Presentacion.Core.dll
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\DAL.dll
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Gatronomia.exe.config
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Gatronomia.exe
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Gatronomia.pdb
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\EntityFramework.dll
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Servicio.Core.dll
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Presentacion.Base.pdb
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Presentacion.Core.pdb
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Servicio.Core.pdb
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\EntityFramework.xml
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\DAL.pdb
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\obj\Debug\Gatronomia.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\obj\Debug\Gatronomia.Login.wfLogin.resources
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\obj\Debug\Gatronomia.Principal.resources
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\obj\Debug\Gatronomia.Properties.Resources.resources
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\obj\Debug\Gatronomia.csproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\obj\Debug\Gatronomia.exe
+C:\Users\Carlos\Desktop\gas\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\obj\Debug\Gatronomia.pdb
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Gatronomia.exe.config
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Gatronomia.exe
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Gatronomia.pdb
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\EntityFramework.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\EntityFramework.SqlServer.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Presentacion.Base.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Presentacion.Core.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Servicio.Core.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\DAL.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Presentacion.Base.pdb
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Presentacion.Base.dll.config
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Presentacion.Core.pdb
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Presentacion.Core.dll.config
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Servicio.Core.pdb
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\Servicio.Core.dll.config
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\EntityFramework.xml
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\EntityFramework.SqlServer.xml
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\DAL.pdb
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\obj\Debug\Gatronomia.csprojResolveAssemblyReference.cache
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\obj\Debug\Gatronomia.Login.wfLogin.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\obj\Debug\Gatronomia.Principal.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\obj\Debug\Gatronomia.Properties.Resources.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\obj\Debug\Gatronomia.csproj.GenerateResource.Cache
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\obj\Debug\Gatronomia.exe
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\obj\Debug\Gatronomia.pdb
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia\Gatronomia\bin\Debug\DAL.dll.config
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Gatronomia\bin\Debug\Gatronomia.exe.config
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Gatronomia\bin\Debug\Gatronomia.exe
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Gatronomia\bin\Debug\Gatronomia.pdb
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Gatronomia\bin\Debug\EntityFramework.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Gatronomia\bin\Debug\EntityFramework.SqlServer.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Gatronomia\bin\Debug\Presentacion.Base.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Gatronomia\bin\Debug\Presentacion.Core.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Gatronomia\bin\Debug\Servicio.Core.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Gatronomia\bin\Debug\DAL.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Gatronomia\bin\Debug\Presentacion.Base.pdb
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Gatronomia\bin\Debug\Presentacion.Base.dll.config
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Gatronomia\bin\Debug\Presentacion.Core.pdb
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Gatronomia\bin\Debug\Presentacion.Core.dll.config
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Gatronomia\bin\Debug\Servicio.Core.pdb
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Gatronomia\bin\Debug\Servicio.Core.dll.config
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Gatronomia\bin\Debug\EntityFramework.xml
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Gatronomia\bin\Debug\EntityFramework.SqlServer.xml
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Gatronomia\bin\Debug\DAL.pdb
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Gatronomia\bin\Debug\DAL.dll.config
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Gatronomia\obj\Debug\Gatronomia.csprojResolveAssemblyReference.cache
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Gatronomia\obj\Debug\Gatronomia.Login.wfLogin.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Gatronomia\obj\Debug\Gatronomia.Principal.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Gatronomia\obj\Debug\Gatronomia.Properties.Resources.resources
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Gatronomia\obj\Debug\Gatronomia.csproj.GenerateResource.Cache
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Gatronomia\obj\Debug\Gatronomia.exe
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Gatronomia\obj\Debug\Gatronomia.pdb
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\Gatronomia\obj\Debug\Gatronomia.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Gatronomia\bin\Debug\Gatronomia.exe.config
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Gatronomia\bin\Debug\Gatronomia.exe
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Gatronomia\bin\Debug\Gatronomia.pdb
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Gatronomia\bin\Debug\EntityFramework.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Gatronomia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Gatronomia\bin\Debug\Presentacion.Base.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Gatronomia\bin\Debug\Presentacion.Core.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Gatronomia\bin\Debug\Servicio.Core.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Gatronomia\bin\Debug\DAL.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Gatronomia\bin\Debug\Presentacion.Base.pdb
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Gatronomia\bin\Debug\Presentacion.Base.dll.config
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Gatronomia\bin\Debug\Presentacion.Core.pdb
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Gatronomia\bin\Debug\Presentacion.Core.dll.config
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Gatronomia\bin\Debug\Servicio.Core.pdb
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Gatronomia\bin\Debug\Servicio.Core.dll.config
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Gatronomia\bin\Debug\EntityFramework.xml
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Gatronomia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Gatronomia\bin\Debug\DAL.pdb
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Gatronomia\bin\Debug\DAL.dll.config
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Gatronomia\obj\Debug\Gatronomia.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Gatronomia\obj\Debug\Gatronomia.Login.wfLogin.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Gatronomia\obj\Debug\Gatronomia.Principal.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Gatronomia\obj\Debug\Gatronomia.Properties.Resources.resources
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Gatronomia\obj\Debug\Gatronomia.csproj.GenerateResource.Cache
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Gatronomia\obj\Debug\Gatronomia.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Gatronomia\obj\Debug\Gatronomia.exe
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\Gatronomia\obj\Debug\Gatronomia.pdb

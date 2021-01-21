@@ -1,0 +1,32 @@
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\DAL\bin\Release\DAL.dll.config
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\DAL\bin\Release\DAL.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\DAL\bin\Release\DAL.pdb
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\DAL\bin\Release\EntityFramework.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\DAL\bin\Release\EntityFramework.SqlServer.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\DAL\bin\Release\EntityFramework.xml
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\DAL\bin\Release\EntityFramework.SqlServer.xml
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\DAL\obj\Release\DAL.dll
+D:\Nubes\Dropbox\Facultad\Programacion\Lab2\Gastronomia integral\Gastronomia\Gastronomia - copia\DAL\obj\Release\DAL.pdb
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\DAL\bin\Release\DAL.dll.config
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\DAL\bin\Release\DAL.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\DAL\bin\Release\DAL.pdb
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\DAL\bin\Release\EntityFramework.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\DAL\bin\Release\EntityFramework.xml
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\DAL\obj\Release\DAL.dll
+C:\Users\Administrador.WIN-8EUTCEK2SHC\Desktop\Proyectos\C#-ASP\Lab2\Gastronomia integral\Gastronomia\FINAL\DAL\obj\Release\DAL.pdb
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\DAL\bin\Release\DAL.dll.config
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\DAL\bin\Release\DAL.dll
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\DAL\bin\Release\DAL.pdb
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\DAL\bin\Release\EntityFramework.dll
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\DAL\bin\Release\EntityFramework.xml
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\DAL\obj\Release\DAL.dll
+C:\Users\Alejandro\Desktop\Proyectos\C#-ASP\Lab2\FINAL\DAL\obj\Release\DAL.pdb
